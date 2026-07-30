@@ -86,25 +86,28 @@ Fun fact:      I enjoy finding the story hidden inside messy data
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 🎬 Movie Recommender
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:38BDF8&height=70&width=100%25&text=🎬%20Movie%20Recommender&fontSize=17&fontColor=ffffff&fontAlignY=55"/>
+
 Content-based recommendation engine using genres, keywords, cast & crew.
 
 `TF-IDF` `Cosine Similarity` `Pandas`
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 💬 Sentiment Analysis
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:38BDF8&height=70&width=100%25&text=💬%20Sentiment%20Analysis&fontSize=17&fontColor=ffffff&fontAlignY=55"/>
+
 NLP model classifying product reviews as positive or negative.
 
 `NLTK/SpaCy` `Naive Bayes` `Logistic Regression`
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-### 😷 Face Mask Detection
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F2937,100:38BDF8&height=70&width=100%25&text=😷%20Face%20Mask%20Detection&fontSize=15&fontColor=ffffff&fontAlignY=55"/>
+
 Real-time computer vision system detecting masked vs. unmasked faces via live webcam feed.
 
 `OpenCV` `TensorFlow/Keras` `Real-time CV`
