@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=250&section=header&text=Muhammad%20Yousaf&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Scientist%20%E2%80%A2%20Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Analyst&descAlignY=54&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:9CA3AF&height=250&section=header&text=Muhammad%20Yousaf&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Data%20Scientist%20%E2%80%A2%20Machine%20Learning%20Engineer%20%E2%80%A2%20Data%20Analyst&descAlignY=54&descSize=17" width="100%"/>
 
 <a href="https://linkedin.com/in/muhammad-yousaf-630557233">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=26&duration=2500&pause=800&color=9CA3AF&center=true&vCenter=true&width=650&lines=Aspiring+Data+Scientist;Data+Analyst+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Turning+Raw+Data+into+Decisions" alt="Typing SVG"/>
@@ -16,7 +16,7 @@
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:374151,100:9CA3AF&height=3&width=100%"/>
 
 ## About Me
 
@@ -46,7 +46,7 @@ Fun fact:      I enjoy finding the story hidden inside messy data
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:374151,100:9CA3AF&height=3&width=100%"/>
 
 ## Tech Stack
 
@@ -80,7 +80,7 @@ Fun fact:      I enjoy finding the story hidden inside messy data
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:374151,100:9CA3AF&height=3&width=100%"/>
 
 ## Featured Projects
 
@@ -113,7 +113,7 @@ Real-time computer vision system detecting masked vs. unmasked faces via live we
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:374151,100:9CA3AF&height=3&width=100%"/>
 
 ## GitHub Analytics
 
@@ -128,7 +128,7 @@ Real-time computer vision system detecting masked vs. unmasked faces via live we
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:374151,100:9CA3AF&height=3&width=100%"/>
 
 ## Certifications & Achievements
 
@@ -137,7 +137,7 @@ Real-time computer vision system detecting masked vs. unmasked faces via live we
 | 🏅 Certification | **Artificial Intelligence** — NAVTTC, via NFC IET (AI, ML & Deep Learning fundamentals) |
 | 🎯 Achievement | Scored **82.7 percentile** in the National Skills Competency Test (NSCT) |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6&height=3&width=100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:374151,100:9CA3AF&height=3&width=100%"/>
 
 <div align="center">
 
@@ -159,4 +159,4 @@ Real-time computer vision system detecting masked vs. unmasked faces via live we
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=140&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:374151,100:9CA3AF&height=140&section=footer"/>
